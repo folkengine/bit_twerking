@@ -3,7 +3,7 @@ bit_twerking
 
 Fun with Bitwise Operations
 
-Based upon Sean Eron Anderson's [Bit Twiddling Hacks](https://graphics.stanford.edu/~seander/bithacks.html)
+Based upon Sean Eron Anderson's [Bit Twiddling Hacks](https://graphics.stanford.edu/~seander/bithacks.html). This is code that I'm just grabbing and playing with in order to help understand things.
 
 Running
 -------
